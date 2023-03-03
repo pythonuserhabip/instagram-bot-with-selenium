@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import ElementClickInterceptedException
 
 DRIVER_PATH = Service('YOUR DRIVER PATH/chromedriver')
-TARGET_USER = 'salimmuneerlala'
+TARGET_USER = 'instaaccountaddress'
 USER_NAME = 'YOUR USERNAME'
 PASSWORD = 'YOUR PASSWORD'
 INSTA_URL = 'https://www.instagram.com/'
